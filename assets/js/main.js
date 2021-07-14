@@ -3,7 +3,15 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+ScrollReveal().reveal('#three', { easing: 'ease-in',distance: '300px',duration: 800 ,opacity: 0,origin: 'bottom' });
 
+ScrollReveal().reveal('#four', { easing: 'ease-in',distance: '300px',duration: 800 ,opacity: 0 ,origin: 'bottom'});
+
+ScrollReveal().reveal('#five', { easing: 'ease-in',distance: '300px',duration: 800,opacity: 0 ,origin: 'bottom' });
+
+ScrollReveal().reveal('#six', { easing: 'ease-in',distance: '300px',duration: 800 ,opacity: 0 ,origin: 'bottom'});
+
+ScrollReveal().reveal('#seven', { easing: 'ease-in',distance: '300px',duration: 800,opacity: 0 ,origin: 'bottom' });
 (function($) {
 
 	var $window = $(window),
