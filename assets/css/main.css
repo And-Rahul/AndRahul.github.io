@@ -2716,6 +2716,7 @@ input, select, textarea {
 		text-align: center;
 		top: 0;
 		width: 23em;
+		
 		right: 0;
 	}
 
@@ -2810,8 +2811,9 @@ input, select, textarea {
 						border: 0;
 						color: #ffffff !important;
 						display: block;
-						padding: 0.85em 0;
+						padding: 0.55em 0;
 						text-decoration: none;
+						height: 50px;
 					}
 
 						#header > nav ul li a.active {
