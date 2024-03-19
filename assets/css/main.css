@@ -2813,7 +2813,7 @@ input, select, textarea {
 						display: block;
 						padding: 0.55em 0;
 						text-decoration: none;
-						height: 50px;
+/* 						height: 50px; */
 					}
 
 						#header > nav ul li a.active {
